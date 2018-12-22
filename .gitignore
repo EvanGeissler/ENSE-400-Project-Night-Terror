@@ -49,7 +49,7 @@ SourceArt/**/*.tga
 Binaries/*
 Plugins/*/Binaries/*
 
-# All folders from start content
+# All folders from starter content
 Animations/
 Blueprints/
 Character/
@@ -65,16 +65,15 @@ KiteDemo/
 MyParticleSystems/
 NewFolder/
 StarterContent/
-UrbanMaterialPack/
 
 # All folders from downloaded content
 FPS_Weapon_Bundle/
 NecrosUtilityMatPack/
+UrbanMaterialPack/
 
 # Folders that may also contain used assets that are most likely NOT modified
 Content/NewFolder
 Content/Assets
-
 
 # Builds
 Build/*
